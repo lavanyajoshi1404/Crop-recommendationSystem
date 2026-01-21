@@ -1,4 +1,4 @@
-# Crop-recommendation-
+# Crop-recommendation System
 🌾 Machine Learning based Crop Recommendation System using Logistic Regression, deployed with Streamlit to suggest suitable crops based on soil nutrients and climate conditions.
 # 🌾 Crop Recommendation System
 
